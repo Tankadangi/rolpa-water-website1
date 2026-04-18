@@ -1,0 +1,1 @@
+window.SITE_SETTINGS = {"brand":{"company_name":"Rolpa Water"},"team":[{"name":"Tanka Prakash Dangi","role":"FOUNDER","quote":"Leadership is responsibility.","photo":"images/team/tanka-dangi.jpg"}]}
